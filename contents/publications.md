@@ -1,4 +1,4 @@
-#### Submitted
+<!-- #### Submitted
 
 - <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
 
@@ -12,5 +12,12 @@
 
 - A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593) -->
 
+#### Published
+
+<!-- Pallatom-Ligand: an All-Atom Diffusion Model for Designing Ligand-Binding Proteins
+H Wang, Q Wang, R Ma, J Guan, W Wu, H Wang, J Dou
+The Fourteenth International Conference on Learning Representations -->
+
+- <strong>H. Wang</strong>, Q. Wang, R. Ma, J. Guan, W. Wu, H. Wang, and J. Dou (2026). Pallatom-Ligand: an All-Atom Diffusion Model for Designing Ligand-Binding Proteins. <strong>International Conference on Learning Representations</strong>. [[Paper]](https://openreview.net/pdf?id=uMD75SDTTA)  Code will be released soon.

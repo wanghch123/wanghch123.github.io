@@ -1,17 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![wanghch123](https://img.shields.io/badge/wanghch123-github-blue?logo=github)](https://github.com/wanghch123)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I'm a 2nd-year master's student at ShanghaiTech University, supervised by Prof. Jiayi Dou. I work on generative models for biomolecules, with a focus on protein design.
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: wanghch2024[at]shanghaitech.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.S., Computer Science, ShanghaiTech University, 2024-2027.
+B.E., Computer Science, ShanghaiTech University, 2020-2024.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
-
+<!-- Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring -->
+Generative Models for Biomolecules; Protein Design

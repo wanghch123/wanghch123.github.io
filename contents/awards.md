@@ -1,5 +1,5 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+<!-- - Outstanding Graduate Award (CUMT), 2025.
 
 - National Scholarship for Graduate Students (Ministry of Education, China), 2024.
 
@@ -9,4 +9,6 @@
 
 - First-Prize Corporate Scholarship (CUMT), 2020.
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- First-Prize Undergraduate Academic Scholarship (CUMT), 2019. -->
+
+- Outstanding Undergraduate Student (ShanghaiTech University), 2020.
