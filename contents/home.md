@@ -9,7 +9,7 @@ I'm a 2nd-year master's student at ShanghaiTech University, supervised by Prof. 
 Email: wanghch2024[at]shanghaitech.edu.cn
 
 #### Education
-M.S., Computer Science, ShanghaiTech University, 2024-2027.
+M.S., Computer Science, ShanghaiTech University, 2024-2027. \
 B.E., Computer Science, ShanghaiTech University, 2020-2024.
 
 #### Research Interests
