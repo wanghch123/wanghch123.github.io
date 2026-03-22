@@ -20,4 +20,4 @@
 H Wang, Q Wang, R Ma, J Guan, W Wu, H Wang, J Dou
 The Fourteenth International Conference on Learning Representations -->
 
-- <strong>H. Wang</strong>, Q. Wang, R. Ma, J. Guan, W. Wu, H. Wang, and J. Dou (2026). Pallatom-Ligand: an All-Atom Diffusion Model for Designing Ligand-Binding Proteins. <strong>International Conference on Learning Representations</strong>. [[Paper]](https://openreview.net/pdf?id=uMD75SDTTA)  Code will be released soon.
+- <strong>H. Wang</strong>, Q. Wang, R. Ma, J. Guan, W. Wu, H. Wang, and J. Dou (2026). Pallatom-Ligand: an All-Atom Diffusion Model for Designing Ligand-Binding Proteins. <strong>International Conference on Learning Representations</strong>. [[Paper]](https://openreview.net/pdf?id=uMD75SDTTA) [[Code]](https://github.com/levinthal/Pallatom-Ligand)
